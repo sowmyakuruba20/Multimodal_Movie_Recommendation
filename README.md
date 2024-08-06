@@ -1,5 +1,5 @@
 # Multimodal Recommender System
-![screenshot](rec.png)
+![screenshot](rec1.png)
 
 ## Project Overview
 This project aims to build a multimodal recommendation system that leverages both textual and visual data to provide personalized recommendations. The system integrates advanced natural language processing (NLP) and computer vision techniques to analyze and understand user preferences from multiple modalities.
